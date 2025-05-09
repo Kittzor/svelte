@@ -25,4 +25,23 @@
   {/each}
 </ul>
 
+<style>
+  input {
+    padding: 0.5rem;
+    border-radius: 4px;
+  }
+
+  button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #005fa3;
+  }
+</style>
 
